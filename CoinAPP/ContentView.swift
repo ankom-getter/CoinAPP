@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  CoinAPP
 //
-//  Created by Ruslan Voinarovskyi on 05.03.2023.
+//  Created by Ankom Getter on 05.03.2023.
 //
 
 import SwiftUI
